@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/github.io/Irurun/static/css/main.c868002e.chunk.css",
+    "main.js": "/github.io/Irurun/static/js/main.0c633ab1.chunk.js",
+    "main.js.map": "/github.io/Irurun/static/js/main.0c633ab1.chunk.js.map",
+    "runtime-main.js": "/github.io/Irurun/static/js/runtime-main.3cd0ba33.js",
+    "runtime-main.js.map": "/github.io/Irurun/static/js/runtime-main.3cd0ba33.js.map",
+    "static/js/2.8a810342.chunk.js": "/github.io/Irurun/static/js/2.8a810342.chunk.js",
+    "static/js/2.8a810342.chunk.js.map": "/github.io/Irurun/static/js/2.8a810342.chunk.js.map",
+    "index.html": "/github.io/Irurun/index.html",
+    "precache-manifest.414049ed95b73e18ddb66df8a0b58be6.js": "/github.io/Irurun/precache-manifest.414049ed95b73e18ddb66df8a0b58be6.js",
+    "service-worker.js": "/github.io/Irurun/service-worker.js",
+    "static/css/main.c868002e.chunk.css.map": "/github.io/Irurun/static/css/main.c868002e.chunk.css.map",
+    "static/js/2.8a810342.chunk.js.LICENSE.txt": "/github.io/Irurun/static/js/2.8a810342.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3cd0ba33.js",
+    "static/js/2.8a810342.chunk.js",
+    "static/css/main.c868002e.chunk.css",
+    "static/js/main.0c633ab1.chunk.js"
+  ]
+}
